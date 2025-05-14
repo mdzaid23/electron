@@ -1,4 +1,4 @@
-# MessagePorts in Electron
+# MessagePorts in Electron 
 
 [`MessagePort`][]s are a web feature that allow passing messages between
 different contexts. It's like `window.postMessage`, but on different channels.
